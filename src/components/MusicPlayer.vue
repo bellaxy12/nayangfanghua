@@ -31,7 +31,7 @@ function nextSong() {
 </script>
 <template>
   <div class="music-player-card">
-    <img :src="albumCover" alt="Album Cover" class="album-cover" />
+    <img src="/src/assets/images/zhuanji2.jpg'" alt="Album Cover" class="album-cover" />
     <div class="music-info">
       <h3>如果没有你</h3>
     </div>
