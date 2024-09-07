@@ -1,0 +1,10 @@
+<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg">  
+  <!-- 创建一个粉色的矩形作为按钮背景 -->  
+  <rect x="0" y="0" width="100" height="50" fill="#FFC0CB" rx="5" ry="5"/>  
+    
+  <!-- 绘制一个向右的箭头作为下一首的图标 -->  
+  <polyline points="20,25 50,5 80,25" stroke="#FFFFFF" stroke-width="4" fill="none" />  
+    
+  <!-- 你可以在这里添加一些文本（如果需要的话），例如“下一首” -->  
+  <text x="40" y="35" text-anchor="middle" fill="#FFFFFF" font-size="12px" font-family="Arial">下一首</text>  
+</svg>

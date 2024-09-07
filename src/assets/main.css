@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 20px 0;
+  background-color: #efdce4; /* 设置背景颜色 */
+}
+#app {
+  width: 90%; /* 容器宽度为屏幕宽度的80% */
+  margin: 0 auto; /* 居中显示 */
+  padding: 10px;
+  box-sizing: border-box; /* 防止内边距和边框破坏布局 */
+  background-color: #fcf8f9; /* 内容区域背景颜色 */
+  border-radius: 20px;
+}
+:root {
+  --el-color-primary: pink;
+}
